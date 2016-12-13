@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Survey</string>
+    <string name="age">Age</string>
+    <string name="username">Username</string>
+    <string name="welcome_to_coventry_university_survey">Welcome to Coventry University Survey</string>
+    <string name="emptyString" />
+    <string name="title_activity_question">QuestionActivity</string>
+</resources>
